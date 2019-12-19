@@ -2,7 +2,7 @@
 Final Project Repository for BIOPHYS 535
 
 Group Members:
-Yujin Wu 
-Luis Vasquez 
+Yujin Wu \n 
+Luis Vasquez \n 
 Thomas Stewart
 
